@@ -1,5 +1,5 @@
 # The Oink Cafe site
-Heading: Breakfast Lunch Bacon
+<ul> <li>Heading: Breakfast Lunch Bacon</li>
 Nav: Home Menu Location Events Gallery Contact
 Pictures: can pull pictures from facebook
 Contact: 
@@ -8,3 +8,4 @@ About us:
 Events:
 Gallery
 Location
+</ul>
