@@ -1,0 +1,81 @@
+<DOCTYPE! html>
+
+    <heading>
+        <meta charset="utf-8" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="viewpoint" content="width=device-width, intitial-scale=1" />
+        <link rel="stylesheet" type="text/css" href="http://theoinkcafe.github.io/main.css">
+    <nav class="mainnav">
+        <ul>
+            <li><a href="Oink_index.html">Home</a></li>
+            <li><a href="Menu">Menu</a></li>
+            <li><a href="Location">Location</a></li>
+            <li><a href="Gallery">Gallery</a></li>
+            <li><a href="About">About</a></li>
+            <li><a href="Press Time">Press Time</a></li>
+            <li><a href="Contact">Contact</a></li>
+        </ul>
+        
+        </nav>
+        <title>The Oink Café</title>
+    </heading>
+    
+    
+    <body>
+    	<h1>The Oink Café</h1>
+    	<div class="img">
+  <a target="_blank" href="fjords.jpg">
+    <img src="fjords.jpg" alt="Fjords" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="forest.jpg">
+    <img src="forest.jpg" alt="Forest" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="lights.jpg">
+    <img src="lights.jpg" alt="Northern Lights" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="mountains.jpg">
+    <img src="mountains.jpg" alt="Mountains" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+    	<div class="img">
+  <a target="_blank" href="fjords.jpg">
+    <img src="fjords.jpg" alt="Fjords" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="forest.jpg">
+    <img src="forest.jpg" alt="Forest" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="lights.jpg">
+    <img src="lights.jpg" alt="Northern Lights" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="mountains.jpg">
+    <img src="mountains.jpg" alt="Mountains" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+</body>
+</html>
